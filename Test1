@@ -1,1 +1,6 @@
-871b2733-1a7e-45b2-b624-4f81cb7cb81c
+return { 
+    "871b2733-1a7e-45b2-b624-4f81cb7cb81c", 
+    "Hwid2", 
+    "HWId3", 
+    "HWID4" 
+}
